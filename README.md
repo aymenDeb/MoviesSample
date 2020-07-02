@@ -16,6 +16,12 @@
 2. Ajouter le chemin vers le SDK Andoid avec sdk.dir=/users//..../Library/Android/sdk.
 3. npm run andoid : lancer l'application sur un simulateur android. (il faut lancer le simulateur manuellement à l'avance ).
 
+
+## ScreenShots
+<img src="https://user-images.githubusercontent.com/47815922/86366380-05a63780-bc7b-11ea-812f-f0da816f85f2.png" alt="alt text" width="180" height="380"> <img src="https://user-images.githubusercontent.com/47815922/86366389-09d25500-bc7b-11ea-8709-6dc6431ec1b8.png" alt="alt text" width="180" height="380"> <img src="https://user-images.githubusercontent.com/47815922/86366391-09d25500-bc7b-11ea-9475-e48de07e7c94.png" alt="alt text" width="180" height="380"> 
+<img src="https://user-images.githubusercontent.com/47815922/86366394-0a6aeb80-bc7b-11ea-8ecb-cfc5aab1868e.png" alt="alt text" width="180" height="380"> <img src="https://user-images.githubusercontent.com/47815922/86366397-0b038200-bc7b-11ea-99ec-ec47a27c4b16.png" alt="alt text" width="180" height="380"> <img src="https://user-images.githubusercontent.com/47815922/86366399-0b038200-bc7b-11ea-94d9-79c5b386b7a4.png" alt="alt text" width="180" height="380"> <img src="https://user-images.githubusercontent.com/47815922/86366403-0b9c1880-bc7b-11ea-896e-15cb3b825fa1.png" alt="alt text" width="180" height="380">
+
+
 ## Développement
 
 Pour développer l'application j'ai utilisé les librairies suivante avec la dernière version de react-native 0.62.2 TypeScript :
