@@ -51,7 +51,7 @@
     "jest": "^24.9.0",
     "jest-enzyme": "^7.1.2",
     "jest-fetch-mock": "^3.0.3",
-    "jsdom": "16.2.2",
+    "jsdom": "16.5.0",
     "jsdom-global": "3.0.2",
     "metro-react-native-babel-preset": "^0.58.0",
     "prettier": "^2.0.4",
